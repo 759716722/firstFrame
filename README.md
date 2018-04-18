@@ -6,7 +6,7 @@ springMVC+spring+mybatis-demo
 跑起来之后浏览器输入 localhost:端口号/test/doTest.do
 控制台输出“注解成功”,页面展示json字符串就代表跑通了。
 {"flag":"Y","data":"XXXXXXXXXXXXXXXXX"}
-里面结构非常简单 action->service->dao，特别容易理解。
+然后就可以去了解里面的结构了，项目非常简化，目的就是为了有一个基本的认识，所以特别容易理解。
 pom.xml 应该是最少的jar包引用
 运行环境请自行构建
 有了基本的认识，后续想要集成shiro/ehcache/redis/等等就方便很多。
