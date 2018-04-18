@@ -1,7 +1,7 @@
 # firstFrame
 springMVC+spring+mybatis-demo
 
-这是一个SSM框架的基础DEMO,没有前端页面，就是一个单纯的后端框架，特别适合像我这样的菜鸟。
+这是一个SSM框架的基础DEMO,没有前端页面，就是一个单纯的后端框架。
 构建于IDEA的Maven项目，导入即可用。
 跑起来之后浏览器输入 localhost:端口号/test/doTest.do
 控制台输出“注解成功”,页面展示json字符串就代表跑通了。
